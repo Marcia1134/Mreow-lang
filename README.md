@@ -24,8 +24,8 @@ There are 5 special characters with common use
 
 Let's learn more about the basics! 
 
-- [[basics/what-is-a-tonal-language|What is a Tonal Language?]]
-- [[basics/letters|Letters!]]
+- [[basics/what-is-a-tonal-language.md|What is a Tonal Language?]]
+- [[basics/letters.md|Letters!]]
 
 <----->
 
