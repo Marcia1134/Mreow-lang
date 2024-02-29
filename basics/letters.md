@@ -47,4 +47,14 @@ Kk is to show sensitivity. A defense tone.
 
 ! Means low pitch
 
-() allows you to modify a spesifc part of a word or phrase. Like this; 'M#(RR)oww'
+() Allows you to modify a spesifc part of a word or phrase. Like this; 'M#(RR)oww'
+
+^ Means whisper or Shy
+
+$ Means Sarcasm
+
+## Common Words
+
+Mrewww -> Haiiii :3
+
+<--more examples coming soon-->
