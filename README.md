@@ -5,10 +5,28 @@
 
 Mreow!Lang or MLang for short makes use of letters to indicate mood and special characters to indicate tone. 
 
-There are five letters
+There are eight letters with common use
  * Mm
  * Rr
  * Ee
  * Oo
  * Ww
+ * Qq
+ * Xx
+ * Kk
 
+There are 5 special characters with common use
+ * #
+ * !
+ * ()
+ * ^
+ * $
+
+Let's learn more about the basics! 
+
+- [[basics/what-is-a-tonal-language|What is a Tonal Language?]]
+- [[basics/letters|Letters!]]
+
+<----->
+
+For more infomation about MLang, please contact @mossmarcia on discord!!
