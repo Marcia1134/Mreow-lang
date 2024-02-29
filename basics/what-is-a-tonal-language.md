@@ -25,11 +25,17 @@ Or another example: 'You're such a dork /j'
 
 These two examples make use of codensed tone tags to indicate the mood and intention of the message. 
 
+## The lack of 'meaning' in Tonal Languages
+
+Tones, as we have convered so far, indicate 
+
 ## Assumed Conversation Structure
 
 Now that we have covered [[what-is-a-tonal-language#Tones are hard though...|Tones]], we can move on to the second aspect of Tonal Languages. Assumed conversation strucuture.
 
-ACS (Assumed Converstaion Structure) 
+ACS (Assumed Converstaion Structure) is a way to have a conversation without actually saying anything of meaning.
+
+
 
 ## So what is a tonal language then?
 
