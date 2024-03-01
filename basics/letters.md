@@ -33,7 +33,7 @@ Oo is your Neutral tone. However, when aggressed, will amplify that agression.
 
 Ww is your ending letter. If you are saying a word, it ends with this.
 
-Qq is meant for hissing. This introduces tenseness, think the crossing of a boundary or being scared about someone's intentions. Being suprised in a negative way. 
+Qq is meant for hissing. It is a way to communicate feeling threatened. (Not in a defensive way, rather a simple acknowlegement that some boundry has been broken.)
 
 Xx is a aggressor tone for hissing. It is a way to be agressive.
 
